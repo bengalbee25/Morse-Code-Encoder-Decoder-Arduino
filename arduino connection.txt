@@ -1,0 +1,8 @@
+// Piezo buzzer or speaker connects to pin 2 and ground
+// Button connects between pin 8 and ground
+// LED (+) to pin 13, (-) 220 Ohm resistor to ground
+//Register one pin serial to ground and other parallel with LED (-)
+//LED longer pin positive shorter pin negative
+//LED pins are in different bores serially with longer (+) pin up and shorter (-) bore down
+//Button should be between the trench of the breadboard
+//Buzzer pins are in different bores serially
